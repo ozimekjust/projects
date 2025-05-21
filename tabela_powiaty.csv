@@ -1,0 +1,381 @@
+oid,kod KTS,powiat,powierzchnia,rok,TERYT,Typ powiatu,TERYT województwa,Województwo,Długość dróg dla rowerów|drogi dla rowerów na 100 km2
+124,011212014000,proszowicki,415.0,2022,1214,powiat,12,małopolskie,0.27
+125,011212313000,oświęcimski,406.0,2022,1213,powiat,12,małopolskie,11.25
+127,023015718000,ostrzeszowski,773.0,2022,3018,powiat,30,wielkopolskie,4.5
+128,023216415000,szczecinecki,1766.0,2022,3215,powiat,32,zachodniopomorskie,2.02
+129,023216604000,goleniowski,1615.0,2022,3204,powiat,32,zachodniopomorskie,3.84
+130,030210321000,wałbrzyski,430.0,2022,0221,powiat,02,dolnośląskie,1.58
+131,030210324000,ząbkowicki,802.0,2022,0224,powiat,02,dolnośląskie,0.11
+133,051011803000,łaski,618.0,2022,1003,powiat,10,łódzkie,3.62
+134,060611020000,zamojski,1870.0,2022,0620,powiat,06,lubelskie,2.04
+135,061813608000,leżajski,584.0,2022,1808,powiat,18,podkarpackie,3.63
+136,062013904000,grajewski,967.0,2022,2004,powiat,20,podlaskie,1.91
+123,071427306000,grójecki,1268.0,2022,1406,powiat,14,mazowieckie,2.11
+141,020811305000,słubicki,999.0,2022,0805,powiat,08,lubuskie,4.11
+151,060611018000,tomaszowski,1487.0,2022,0618,powiat,06,lubelskie,5.52
+156,062013702000,białostocki,2977.0,2022,2002,powiat,20,podlaskie,5.32
+157,062013711000,sokólski,2054.0,2022,2011,powiat,20,podlaskie,0.76
+158,062013803000,bielski,1385.0,2022,2003,powiat,20,podlaskie,2.49
+159,062013805000,hajnowski,1624.0,2022,2005,powiat,20,podlaskie,3.59
+160,062013806000,kolneński,940.0,2022,2006,powiat,20,podlaskie,1.03
+161,062013807000,łomżyński,1355.0,2022,2007,powiat,20,podlaskie,1.56
+162,062013810000,siemiatycki,1459.0,2022,2010,powiat,20,podlaskie,2.47
+168,020811409000,zielonogórski,1351.0,2022,0809,powiat,08,lubuskie,6.64
+169,020811410000,żagański,1131.0,2022,0810,powiat,08,lubuskie,1.79
+170,020811411000,żarski,1393.0,2022,0811,powiat,08,lubuskie,4.49
+171,020811412000,wschowski,624.0,2022,0812,powiat,08,lubuskie,0.85
+172,023216410000,myśliborski,1182.0,2022,3210,powiat,32,zachodniopomorskie,2.68
+173,030210420000,trzebnicki,1025.0,2022,0220,powiat,02,dolnośląskie,6.02
+174,031613101000,brzeski,876.0,2022,1601,powiat,16,opolskie,3.68
+303,042214163000,Słupsk,43.0,2022,2263,miasto na prawach powiatu,22,pomorskie,124.22
+186,023015717000,ostrowski,1160.0,2022,3017,powiat,30,wielkopolskie,10.65
+187,023016002000,czarnkowsko-trzcianecki,1808.0,2022,3002,powiat,30,wielkopolskie,3.5
+188,023016019000,pilski,1266.0,2022,3019,powiat,30,wielkopolskie,7.91
+189,023016028000,wągrowiecki,1040.0,2022,3028,powiat,30,wielkopolskie,5.35
+190,023016031000,złotowski,1661.0,2022,3031,powiat,30,wielkopolskie,2.54
+191,023016124000,szamotulski,1119.0,2022,3024,powiat,30,wielkopolskie,7.24
+192,042217203000,człuchowski,1575.0,2022,2203,powiat,22,pomorskie,3.1
+206,052615313000,włoszczowski,906.0,2022,2613,powiat,26,świętokrzyskie,1.1
+207,060610901000,bialski,2754.0,2022,0601,powiat,06,lubelskie,2.2
+210,012414403000,cieszyński,730.0,2022,2403,powiat,24,śląskie,4.6
+211,012414417000,żywiecki,1040.0,2022,2417,powiat,24,śląskie,1.52
+235,020811404000,nowosolski,771.0,2022,0804,powiat,08,lubuskie,11.51
+232,020811301000,gorzowski,1214.0,2022,0801,powiat,08,lubuskie,6.79
+233,020811303000,międzyrzecki,1388.0,2022,0803,powiat,08,lubuskie,1.79
+166,012414461000,Bielsko-Biała,124.0,2022,2461,miasto na prawach powiatu,24,śląskie,29.41
+9,012414513000,tarnogórski,644.0,2022,2413,powiat,24,śląskie,3.57
+244,023015904000,gostyński,810.0,2022,3004,powiat,30,wielkopolskie,7.74
+261,023216614000,stargardzki,1520.0,2022,3214,powiat,32,zachodniopomorskie,5.15
+273,030210319000,świdnicki,741.0,2022,0219,powiat,02,dolnośląskie,7.09
+281,031613107000,nyski,1224.0,2022,1607,powiat,16,opolskie,6.32
+1,011212006000,krakowski,1230.0,2022,1206,powiat,12,małopolskie,4.77
+4,011212210000,nowosądecki,1550.0,2022,1210,powiat,12,małopolskie,3.29
+200,011212262000,Nowy Sącz,58.0,2022,1262,miasto na prawach powiatu,12,małopolskie,33.85
+353,061813462000,Przemyśl,46.0,2022,1862,miasto na prawach powiatu,18,podkarpackie,80.36
+205,011212463000,Tarnów,72.0,2022,1263,miasto na prawach powiatu,12,małopolskie,107.5
+7,011216911000,nowotarski,1475.0,2022,1211,powiat,12,małopolskie,7.62
+155,061813664000,Tarnobrzeg,85.0,2022,1864,miasto na prawach powiatu,18,podkarpackie,39.81
+10,012414562000,Bytom,69.0,2022,2462,miasto na prawach powiatu,24,śląskie,46.2
+137,012414571000,Piekary Śląskie,40.0,2022,2471,miasto na prawach powiatu,24,śląskie,49.67
+11,012414604000,częstochowski,1522.0,2022,2404,powiat,24,śląskie,3.71
+310,042815403000,działdowski,954.0,2022,2803,powiat,28,warmińsko-mazurskie,3.31
+182,062013761000,Białystok,102.0,2022,2061,miasto na prawach powiatu,20,podlaskie,160.97
+167,012414664000,Częstochowa,160.0,2022,2464,miasto na prawach powiatu,24,śląskie,53.78
+12,012414705000,gliwicki,665.0,2022,2405,powiat,24,śląskie,3.16
+163,062013813000,wysokomazowiecki,1289.0,2022,2013,powiat,20,podlaskie,2.42
+164,062013814000,zambrowski,733.0,2022,2014,powiat,20,podlaskie,2.21
+360,062013862000,Łomża,33.0,2022,2062,miasto na prawach powiatu,20,podlaskie,125.8
+165,062013901000,augustowski,1659.0,2022,2001,powiat,20,podlaskie,3.74
+101,062013908000,moniecki,1382.0,2022,2008,powiat,20,podlaskie,0.62
+325,051011701000,bełchatowski,968.0,2022,1001,powiat,10,łódzkie,19.22
+326,051011707000,opoczyński,1040.0,2022,1007,powiat,10,łódzkie,2.83
+346,060611207000,kraśnicki,1005.0,2022,0607,powiat,06,lubelskie,1.56
+216,012414863000,Chorzów,33.0,2022,2463,miasto na prawach powiatu,24,śląskie,102.64
+362,062013963000,Suwałki,66.0,2022,2063,miasto na prawach powiatu,20,podlaskie,153.26
+219,012414872000,Ruda Śląska,78.0,2022,2472,miasto na prawach powiatu,24,śląskie,41.6
+109,071422537000,żuromiński,807.0,2022,1437,powiat,14,mazowieckie,3.26
+110,071422611000,makowski,1065.0,2022,1411,powiat,14,mazowieckie,0.37
+111,071422615000,ostrołęcki,2093.0,2022,1415,powiat,14,mazowieckie,11.77
+112,071422616000,ostrowski,1218.0,2022,1416,powiat,14,mazowieckie,2.14
+113,071422622000,przasnyski,1219.0,2022,1422,powiat,14,mazowieckie,6.24
+114,071422635000,wyszkowski,877.0,2022,1435,powiat,14,mazowieckie,8.73
+220,012414874000,Siemianowice Śląskie,26.0,2022,2474,miasto na prawach powiatu,24,śląskie,144.65
+221,012414876000,Świętochłowice,13.0,2022,2476,miasto na prawach powiatu,24,śląskie,78.95
+222,012414911000,raciborski,544.0,2022,2411,powiat,24,śląskie,11.99
+13,012415016000,zawierciański,1004.0,2022,2416,powiat,24,śląskie,4.1
+372,071422707000,kozienicki,916.0,2022,1407,powiat,14,mazowieckie,3.2
+378,071427126000,siedlecki,1603.0,2022,1426,powiat,14,mazowieckie,1.72
+195,011212001000,bocheński,649.0,2022,1201,powiat,12,małopolskie,5.13
+196,011212008000,miechowski,676.0,2022,1208,powiat,12,małopolskie,3.27
+2,011212009000,myślenicki,673.0,2022,1209,powiat,12,małopolskie,3.27
+197,011212019000,wielicki,411.0,2022,1219,powiat,12,małopolskie,4.36
+198,011212161000,Kraków,327.0,2022,1261,miasto na prawach powiatu,12,małopolskie,82.51
+3,011212205000,gorlicki,966.0,2022,1205,powiat,12,małopolskie,3.0
+199,011212207000,limanowski,951.0,2022,1207,powiat,12,małopolskie,0.68
+201,011212303000,chrzanowski,370.0,2022,1203,powiat,12,małopolskie,3.84
+202,011212312000,olkuski,618.0,2022,1212,powiat,12,małopolskie,1.44
+203,011212318000,wadowicki,646.0,2022,1218,powiat,12,małopolskie,3.11
+5,011212402000,brzeski,591.0,2022,1202,powiat,12,małopolskie,5.54
+204,011212404000,dąbrowski,530.0,2022,1204,powiat,12,małopolskie,0.94
+6,011212416000,tarnowski,1412.0,2022,1216,powiat,12,małopolskie,3.52
+208,011216915000,suski,686.0,2022,1215,powiat,12,małopolskie,0.7
+209,011216917000,tatrzański,472.0,2022,1217,powiat,12,małopolskie,1.74
+8,012414402000,bielski,458.0,2022,2402,powiat,24,śląskie,6.27
+140,012415075000,Sosnowiec,91.0,2022,2475,miasto na prawach powiatu,24,śląskie,55.4
+126,012414507000,lubliniecki,822.0,2022,2407,powiat,24,śląskie,10.06
+212,012414606000,kłobucki,889.0,2022,2406,powiat,24,śląskie,0.88
+213,012414609000,myszkowski,479.0,2022,2409,powiat,24,śląskie,10.52
+214,012414766000,Gliwice,134.0,2022,2466,miasto na prawach powiatu,24,śląskie,41.46
+215,012414778000,Zabrze,80.0,2022,2478,miasto na prawach powiatu,24,śląskie,46.13
+217,012414869000,Katowice,165.0,2022,2469,miasto na prawach powiatu,24,śląskie,63.74
+218,012414870000,Mysłowice,66.0,2022,2470,miasto na prawach powiatu,24,śląskie,3.5
+183,071422661000,Ostrołęka,33.0,2022,1461,miasto na prawach powiatu,14,mazowieckie,95.94
+223,012414912000,rybnicki,224.0,2022,2412,powiat,24,śląskie,4.74
+224,012414915000,wodzisławski,287.0,2022,2415,powiat,24,śląskie,8.72
+225,012414967000,Jastrzębie-Zdrój,85.0,2022,2467,miasto na prawach powiatu,24,śląskie,31.87
+226,012414973000,Rybnik,148.0,2022,2473,miasto na prawach powiatu,24,śląskie,19.96
+227,012414979000,Żory,65.0,2022,2479,miasto na prawach powiatu,24,śląskie,36.51
+228,012415001000,będziński,364.0,2022,2401,powiat,24,śląskie,17.07
+138,012415065000,Dąbrowa Górnicza,189.0,2022,2465,miasto na prawach powiatu,24,śląskie,22.1
+139,012415068000,Jaworzno,152.0,2022,2468,miasto na prawach powiatu,24,śląskie,19.88
+229,012415108000,mikołowski,233.0,2022,2408,powiat,24,śląskie,2.06
+14,012415110000,pszczyński,471.0,2022,2410,powiat,24,śląskie,9.59
+234,020811361000,Gorzów Wielkopolski,86.0,2022,0861,miasto na prawach powiatu,08,lubuskie,78.39
+17,020811402000,krośnieński,1390.0,2022,0802,powiat,08,lubuskie,3.91
+230,012415114000,bieruńsko-lędziński,158.0,2022,2414,powiat,24,śląskie,31.93
+231,012415177000,Tychy,82.0,2022,2477,miasto na prawach powiatu,24,śląskie,85.56
+15,020811306000,strzelecko-drezdenecki,1248.0,2022,0806,powiat,08,lubuskie,3.38
+16,020811307000,sulęciński,1178.0,2022,0807,powiat,08,lubuskie,2.9
+236,020811408000,świebodziński,937.0,2022,0808,powiat,08,lubuskie,6.48
+237,020811462000,Zielona Góra,278.0,2022,0862,miasto na prawach powiatu,08,lubuskie,30.76
+142,023015761000,Kalisz,69.0,2022,3061,miasto na prawach powiatu,30,wielkopolskie,82.3
+19,023015803000,gnieźnieński,1255.0,2022,3003,powiat,30,wielkopolskie,7.1
+20,023015809000,kolski,1011.0,2022,3009,powiat,30,wielkopolskie,3.51
+21,023015810000,koniński,1578.0,2022,3010,powiat,30,wielkopolskie,6.29
+22,023015823000,słupecki,838.0,2022,3023,powiat,30,wielkopolskie,3.57
+238,023015706000,jarociński,588.0,2022,3006,powiat,30,wielkopolskie,9.86
+18,023015707000,kaliski,1160.0,2022,3007,powiat,30,wielkopolskie,4.08
+239,023015708000,kępiński,608.0,2022,3008,powiat,30,wielkopolskie,9.55
+240,023015712000,krotoszyński,714.0,2022,3012,powiat,30,wielkopolskie,5.05
+241,023015720000,pleszewski,713.0,2022,3020,powiat,30,wielkopolskie,8.65
+242,023015827000,turecki,930.0,2022,3027,powiat,30,wielkopolskie,3.28
+23,023015830000,wrzesiński,704.0,2022,3030,powiat,30,wielkopolskie,3.53
+243,023015862000,Konin,82.0,2022,3062,miasto na prawach powiatu,30,wielkopolskie,66.59
+143,023015963000,Leszno,32.0,2022,3063,miasto na prawach powiatu,30,wielkopolskie,20.09
+184,071422763000,Radom,112.0,2022,1463,miasto na prawach powiatu,14,mazowieckie,101.88
+245,023015905000,grodziski,644.0,2022,3005,powiat,30,wielkopolskie,11.35
+33,023216417000,wałecki,1415.0,2022,3217,powiat,32,zachodniopomorskie,1.54
+34,023216418000,łobeski,1065.0,2022,3218,powiat,32,zachodniopomorskie,0.42
+117,071427004000,gostyniński,615.0,2022,1404,powiat,14,mazowieckie,2.73
+118,071427019000,płocki,1797.0,2022,1419,powiat,14,mazowieckie,2.81
+246,023015911000,kościański,722.0,2022,3011,powiat,30,wielkopolskie,16.45
+24,023015913000,leszczyński,806.0,2022,3013,powiat,30,wielkopolskie,16.29
+247,023015914000,międzychodzki,736.0,2022,3014,powiat,30,wielkopolskie,1.06
+25,023015915000,nowotomyski,1012.0,2022,3015,powiat,30,wielkopolskie,8.63
+248,023015922000,rawicki,553.0,2022,3022,powiat,30,wielkopolskie,9.81
+249,023015929000,wolsztyński,680.0,2022,3029,powiat,30,wielkopolskie,11.82
+250,023016001000,chodzieski,685.0,2022,3001,powiat,30,wielkopolskie,8.86
+26,023016116000,obornicki,711.0,2022,3016,powiat,30,wielkopolskie,5.96
+27,023016121000,poznański,1900.0,2022,3021,powiat,30,wielkopolskie,12.33
+251,023016125000,średzki,623.0,2022,3025,powiat,30,wielkopolskie,5.51
+252,023016126000,śremski,574.0,2022,3026,powiat,30,wielkopolskie,3.78
+253,023016264000,Poznań,262.0,2022,3064,miasto na prawach powiatu,30,wielkopolskie,127.33
+28,023216301000,białogardzki,846.0,2022,3201,powiat,32,zachodniopomorskie,6.21
+254,023216308000,kołobrzeski,728.0,2022,3208,powiat,32,zachodniopomorskie,16.38
+29,023216309000,koszaliński,1653.0,2022,3209,powiat,32,zachodniopomorskie,4.44
+255,023216313000,sławieński,1043.0,2022,3213,powiat,32,zachodniopomorskie,4.94
+144,023216361000,Koszalin,98.0,2022,3261,miasto na prawach powiatu,32,zachodniopomorskie,109.42
+30,023216402000,choszczeński,1328.0,2022,3202,powiat,32,zachodniopomorskie,1.95
+31,023216403000,drawski,1764.0,2022,3203,powiat,32,zachodniopomorskie,0.79
+267,030210161000,Jelenia Góra,109.0,2022,0261,miasto na prawach powiatu,02,dolnośląskie,56.45
+256,023216412000,pyrzycki,726.0,2022,3212,powiat,32,zachodniopomorskie,3.32
+32,023216416000,świdwiński,1093.0,2022,3216,powiat,32,zachodniopomorskie,3.38
+257,023216562000,Szczecin,301.0,2022,3262,miasto na prawach powiatu,32,zachodniopomorskie,53.22
+258,023216605000,gryficki,1021.0,2022,3205,powiat,32,zachodniopomorskie,4.0
+35,023216606000,gryfiński,1869.0,2022,3206,powiat,32,zachodniopomorskie,4.08
+259,023216607000,kamieński,1008.0,2022,3207,powiat,32,zachodniopomorskie,6.67
+271,030210262000,Legnica,56.0,2022,0262,miasto na prawach powiatu,02,dolnośląskie,77.1
+260,023216611000,policki,664.0,2022,3211,powiat,32,zachodniopomorskie,16.3
+262,023216663000,Świnoujście,202.0,2022,3263,miasto na prawach powiatu,32,zachodniopomorskie,25.73
+263,030210101000,bolesławiecki,1303.0,2022,0201,powiat,02,dolnośląskie,4.49
+145,030210105000,jaworski,581.0,2022,0205,powiat,02,dolnośląskie,1.84
+36,030210106000,karkonoski,627.0,2022,0206,powiat,02,dolnośląskie,1.12
+264,030210107000,kamiennogórski,396.0,2022,0207,powiat,02,dolnośląskie,2.07
+265,030210110000,lubański,428.0,2022,0210,powiat,02,dolnośląskie,0.0
+37,030210112000,lwówecki,710.0,2022,0212,powiat,02,dolnośląskie,1.14
+38,030210125000,zgorzelecki,839.0,2022,0225,powiat,02,dolnośląskie,6.65
+266,030210126000,złotoryjski,576.0,2022,0226,powiat,02,dolnośląskie,1.84
+268,030210203000,głogowski,443.0,2022,0203,powiat,02,dolnośląskie,7.2
+269,030210204000,górowski,738.0,2022,0204,powiat,02,dolnośląskie,0.64
+39,030210209000,legnicki,744.0,2022,0209,powiat,02,dolnośląskie,0.86
+270,030210211000,lubiński,712.0,2022,0211,powiat,02,dolnośląskie,9.36
+40,030210216000,polkowicki,780.0,2022,0216,powiat,02,dolnośląskie,3.03
+272,030210302000,dzierżoniowski,479.0,2022,0202,powiat,02,dolnośląskie,12.56
+41,030210308000,kłodzki,1643.0,2022,0208,powiat,02,dolnośląskie,1.92
+146,030210365000,Wałbrzych,85.0,2022,0265,miasto na prawach powiatu,02,dolnośląskie,39.8
+286,031613261000,Opole,149.0,2022,1661,miasto na prawach powiatu,16,opolskie,75.42
+48,040410603000,bydgoski,1394.0,2022,0403,powiat,04,kujawsko-pomorskie,14.03
+49,040410615000,toruński,1230.0,2022,0415,powiat,04,kujawsko-pomorskie,13.61
+274,030210413000,milicki,715.0,2022,0213,powiat,02,dolnośląskie,1.55
+42,030210414000,oleśnicki,1049.0,2022,0214,powiat,02,dolnośląskie,4.22
+275,030210415000,oławski,524.0,2022,0215,powiat,02,dolnośląskie,4.73
+43,030210417000,strzeliński,622.0,2022,0217,powiat,02,dolnośląskie,0.42
+276,030210418000,średzki,704.0,2022,0218,powiat,02,dolnośląskie,3.78
+277,030210422000,wołowski,675.0,2022,0222,powiat,02,dolnośląskie,6.27
+44,030210423000,wrocławski,1118.0,2022,0223,powiat,02,dolnośląskie,7.06
+278,030210564000,Wrocław,293.0,2022,0264,miasto na prawach powiatu,02,dolnośląskie,121.31
+294,040410762000,Grudziądz,58.0,2022,0462,miasto na prawach powiatu,04,kujawsko-pomorskie,110.63
+279,031613102000,głubczycki,673.0,2022,1602,powiat,16,opolskie,1.13
+280,031613106000,namysłowski,748.0,2022,1606,powiat,16,opolskie,4.95
+282,031613110000,prudnicki,571.0,2022,1610,powiat,16,opolskie,6.65
+283,031613203000,kędzierzyńsko-kozielski,625.0,2022,1603,powiat,16,opolskie,9.92
+284,031613204000,kluczborski,852.0,2022,1604,powiat,16,opolskie,2.89
+285,031613205000,krapkowicki,442.0,2022,1605,powiat,16,opolskie,8.06
+45,031613208000,oleski,973.0,2022,1608,powiat,16,opolskie,5.88
+46,031613209000,opolski,1534.0,2022,1609,powiat,16,opolskie,7.55
+47,031613211000,strzelecki,744.0,2022,1611,powiat,16,opolskie,5.6
+287,040410661000,Bydgoszcz,176.0,2022,0461,miasto na prawach powiatu,04,kujawsko-pomorskie,70.53
+288,040410663000,Toruń,116.0,2022,0463,miasto na prawach powiatu,04,kujawsko-pomorskie,127.03
+50,040410702000,brodnicki,1040.0,2022,0402,powiat,04,kujawsko-pomorskie,3.15
+289,040410704000,chełmiński,527.0,2022,0404,powiat,04,kujawsko-pomorskie,9.98
+290,040410705000,golubsko-dobrzyński,613.0,2022,0405,powiat,04,kujawsko-pomorskie,5.45
+291,040410706000,grudziądzki,729.0,2022,0406,powiat,04,kujawsko-pomorskie,3.55
+292,040410712000,rypiński,587.0,2022,0412,powiat,04,kujawsko-pomorskie,2.95
+293,040410717000,wąbrzeski,501.0,2022,0417,powiat,04,kujawsko-pomorskie,6.93
+295,040410801000,aleksandrowski,475.0,2022,0401,powiat,04,kujawsko-pomorskie,7.52
+51,040410808000,lipnowski,1017.0,2022,0408,powiat,04,kujawsko-pomorskie,1.22
+296,040410811000,radziejowski,607.0,2022,0411,powiat,04,kujawsko-pomorskie,3.8
+52,040410818000,włocławski,1472.0,2022,0418,powiat,04,kujawsko-pomorskie,5.27
+147,040410864000,Włocławek,85.0,2022,0464,miasto na prawach powiatu,04,kujawsko-pomorskie,79.92
+53,040416707000,inowrocławski,1225.0,2022,0407,powiat,04,kujawsko-pomorskie,6.9
+54,040416709000,mogileński,675.0,2022,0409,powiat,04,kujawsko-pomorskie,1.88
+300,042214010000,nowodworski,674.0,2022,2210,powiat,22,pomorskie,4.07
+297,040416710000,nakielski,1120.0,2022,0410,powiat,04,kujawsko-pomorskie,3.87
+55,040416719000,żniński,985.0,2022,0419,powiat,04,kujawsko-pomorskie,3.11
+298,040416813000,sępoleński,791.0,2022,0413,powiat,04,kujawsko-pomorskie,5.6
+56,040416814000,świecki,1474.0,2022,0414,powiat,04,kujawsko-pomorskie,6.29
+57,040416816000,tucholski,1075.0,2022,0416,powiat,04,kujawsko-pomorskie,4.76
+299,042214004000,gdański,794.0,2022,2204,powiat,22,pomorskie,11.6
+58,042214005000,kartuski,1120.0,2022,2205,powiat,22,pomorskie,11.18
+301,042214011000,pucki,581.0,2022,2211,powiat,22,pomorskie,21.36
+59,042214015000,wejherowski,1288.0,2022,2215,powiat,22,pomorskie,6.79
+60,042214101000,bytowski,2192.0,2022,2201,powiat,22,pomorskie,2.31
+302,042214108000,lęborski,708.0,2022,2208,powiat,22,pomorskie,9.89
+61,042214112000,słupski,2310.0,2022,2212,powiat,22,pomorskie,4.39
+304,042214207000,kwidzyński,835.0,2022,2207,powiat,22,pomorskie,7.63
+305,042214209000,malborski,494.0,2022,2209,powiat,22,pomorskie,12.1
+62,042214213000,starogardzki,1346.0,2022,2213,powiat,22,pomorskie,5.44
+306,042214214000,tczewski,697.0,2022,2214,powiat,22,pomorskie,6.35
+307,042214216000,sztumski,731.0,2022,2216,powiat,22,pomorskie,4.04
+308,042214361000,Gdańsk,266.0,2022,2261,miasto na prawach powiatu,22,pomorskie,81.51
+63,042214362000,Gdynia,135.0,2022,2262,miasto na prawach powiatu,22,pomorskie,59.02
+132,042214364000,Sopot,17.0,2022,2264,miasto na prawach powiatu,22,pomorskie,130.18
+64,042217202000,chojnicki,1364.0,2022,2202,powiat,22,pomorskie,15.09
+193,042217206000,kościerski,1166.0,2022,2206,powiat,22,pomorskie,4.8
+148,042815461000,Elbląg,80.0,2022,2861,miasto na prawach powiatu,28,warmińsko-mazurskie,63.14
+66,042815505000,ełcki,1113.0,2022,2805,powiat,28,warmińsko-mazurskie,2.95
+67,042815506000,giżycki,1120.0,2022,2806,powiat,28,warmińsko-mazurskie,2.2
+309,042815402000,braniewski,1204.0,2022,2802,powiat,28,warmińsko-mazurskie,0.72
+311,042815404000,elbląski,1413.0,2022,2804,powiat,28,warmińsko-mazurskie,2.41
+312,042815407000,iławski,1385.0,2022,2807,powiat,28,warmińsko-mazurskie,5.26
+149,042815609000,lidzbarski,925.0,2022,2809,powiat,28,warmińsko-mazurskie,2.82
+150,042815610000,mrągowski,1065.0,2022,2810,powiat,28,warmińsko-mazurskie,2.59
+313,042815412000,nowomiejski,694.0,2022,2812,powiat,28,warmińsko-mazurskie,5.58
+65,042815415000,ostródzki,1767.0,2022,2815,powiat,28,warmińsko-mazurskie,1.55
+314,042815513000,olecki,874.0,2022,2813,powiat,28,warmińsko-mazurskie,0.8
+68,042815516000,piski,1775.0,2022,2816,powiat,28,warmińsko-mazurskie,1.9
+315,042815518000,gołdapski,772.0,2022,2818,powiat,28,warmińsko-mazurskie,3.37
+316,042815519000,węgorzewski,693.0,2022,2819,powiat,28,warmińsko-mazurskie,4.99
+320,042815662000,Olsztyn,88.0,2022,2862,miasto na prawach powiatu,28,warmińsko-mazurskie,120.02
+69,051011506000,łódzki wschodni,500.0,2022,1006,powiat,10,łódzkie,10.14
+317,042815601000,bartoszycki,1307.0,2022,2801,powiat,28,warmińsko-mazurskie,2.02
+318,042815608000,kętrzyński,1213.0,2022,2808,powiat,28,warmińsko-mazurskie,3.36
+319,042815611000,nidzicki,961.0,2022,2811,powiat,28,warmińsko-mazurskie,3.28
+194,042815614000,olsztyński,2838.0,2022,2814,powiat,28,warmińsko-mazurskie,2.25
+175,042815617000,szczycieński,1933.0,2022,2817,powiat,28,warmińsko-mazurskie,2.99
+321,051011508000,pabianicki,492.0,2022,1008,powiat,10,łódzkie,5.97
+322,051011520000,zgierski,855.0,2022,1020,powiat,10,łódzkie,3.93
+323,051011521000,brzeziński,359.0,2022,1021,powiat,10,łódzkie,0.7
+335,051011963000,Skierniewice,35.0,2022,1063,miasto na prawach powiatu,10,łódzkie,86.13
+324,051011661000,Łódź,293.0,2022,1061,miasto na prawach powiatu,10,łódzkie,78.53
+327,051011710000,piotrkowski,1428.0,2022,1010,powiat,10,łódzkie,1.24
+328,051011712000,radomszczański,1443.0,2022,1012,powiat,10,łódzkie,1.07
+329,051011716000,tomaszowski,1025.0,2022,1016,powiat,10,łódzkie,7.76
+330,051011762000,Piotrków Trybunalski,67.0,2022,1062,miasto na prawach powiatu,10,łódzkie,47.59
+70,051011809000,pajęczański,804.0,2022,1009,powiat,10,łódzkie,8.9
+71,051011811000,poddębicki,881.0,2022,1011,powiat,10,łódzkie,2.46
+72,051011814000,sieradzki,1491.0,2022,1014,powiat,10,łódzkie,3.39
+73,051011817000,wieluński,926.0,2022,1017,powiat,10,łódzkie,3.7
+331,051011818000,wieruszowski,577.0,2022,1018,powiat,10,łódzkie,7.19
+77,052615204000,kielecki,2246.0,2022,2604,powiat,26,świętokrzyskie,4.85
+78,052615205000,konecki,1140.0,2022,2605,powiat,26,świętokrzyskie,3.57
+332,051011819000,zduńskowolski,369.0,2022,1019,powiat,10,łódzkie,18.36
+74,051011902000,kutnowski,887.0,2022,1002,powiat,10,łódzkie,2.41
+75,051011904000,łęczycki,773.0,2022,1004,powiat,10,łódzkie,0.32
+333,051011905000,łowicki,988.0,2022,1005,powiat,10,łódzkie,1.59
+334,051011913000,rawski,646.0,2022,1013,powiat,10,łódzkie,2.88
+76,051011915000,skierniewicki,753.0,2022,1015,powiat,10,łódzkie,4.51
+336,052615207000,ostrowiecki,617.0,2022,2607,powiat,26,świętokrzyskie,12.73
+337,052615210000,skarżyski,395.0,2022,2610,powiat,26,świętokrzyskie,1.06
+342,060610961000,Biała Podlaska,49.0,2022,0661,miasto na prawach powiatu,06,lubelskie,56.28
+84,060611002000,biłgorajski,1681.0,2022,0602,powiat,06,lubelskie,4.49
+85,060611003000,chełmski,1886.0,2022,0603,powiat,06,lubelskie,1.82
+86,060611004000,hrubieszowski,1270.0,2022,0604,powiat,06,lubelskie,2.45
+338,052615211000,starachowicki,523.0,2022,2611,powiat,26,świętokrzyskie,4.16
+179,060611006000,krasnostawski,1032.0,2022,0606,powiat,06,lubelskie,0.38
+79,052615261000,Kielce,110.0,2022,2661,miasto na prawach powiatu,26,świętokrzyskie,72.5
+80,052615301000,buski,968.0,2022,2601,powiat,26,świętokrzyskie,2.0
+176,052615302000,jędrzejowski,1257.0,2022,2602,powiat,26,świętokrzyskie,1.39
+152,060611062000,Chełm,35.0,2022,0662,miasto na prawach powiatu,06,lubelskie,91.84
+153,060611064000,Zamość,30.0,2022,0664,miasto na prawach powiatu,06,lubelskie,173.43
+154,060611108000,lubartowski,1289.0,2022,0608,powiat,06,lubelskie,5.93
+180,060611109000,lubelski,1680.0,2022,0609,powiat,06,lubelskie,6.86
+339,052615303000,kazimierski,422.0,2022,2603,powiat,26,świętokrzyskie,2.65
+81,052615306000,opatowski,911.0,2022,2606,powiat,26,świętokrzyskie,2.14
+177,052615308000,pińczowski,613.0,2022,2608,powiat,26,świętokrzyskie,1.01
+90,060611214000,puławski,934.0,2022,0614,powiat,06,lubelskie,4.1
+340,052615309000,sandomierski,676.0,2022,2609,powiat,26,świętokrzyskie,2.44
+82,052615312000,staszowski,925.0,2022,2612,powiat,26,świętokrzyskie,1.48
+91,061813301000,bieszczadzki,1139.0,2022,1801,powiat,18,podkarpackie,0.0
+341,060610913000,parczewski,952.0,2022,0613,powiat,06,lubelskie,3.57
+83,060610915000,radzyński,965.0,2022,0615,powiat,06,lubelskie,1.02
+178,060610919000,włodawski,1256.0,2022,0619,powiat,06,lubelskie,5.44
+343,060611110000,łęczyński,637.0,2022,0610,powiat,06,lubelskie,5.37
+344,060611117000,świdnicki,468.0,2022,0617,powiat,06,lubelskie,10.74
+87,060611163000,Lublin,148.0,2022,0663,miasto na prawach powiatu,06,lubelskie,130.08
+351,061813361000,Krosno,45.0,2022,1861,miasto na prawach powiatu,18,podkarpackie,52.78
+94,061813404000,jarosławski,1029.0,2022,1804,powiat,18,podkarpackie,1.37
+345,060611205000,janowski,875.0,2022,0605,powiat,06,lubelskie,1.68
+88,060611211000,łukowski,1394.0,2022,0611,powiat,06,lubelskie,1.84
+89,060611212000,opolski,811.0,2022,0612,powiat,06,lubelskie,2.11
+347,060611216000,rycki,614.0,2022,0616,powiat,06,lubelskie,4.78
+348,061813302000,brzozowski,539.0,2022,1802,powiat,18,podkarpackie,1.48
+92,061813305000,jasielski,831.0,2022,1805,powiat,18,podkarpackie,1.06
+93,061813307000,krośnieński,992.0,2022,1807,powiat,18,podkarpackie,0.04
+349,061813317000,sanocki,1156.0,2022,1817,powiat,18,podkarpackie,0.46
+350,061813321000,leski,835.0,2022,1821,powiat,18,podkarpackie,0.02
+352,061813409000,lubaczowski,1308.0,2022,1809,powiat,18,podkarpackie,2.87
+95,061813413000,przemyski,1211.0,2022,1813,powiat,18,podkarpackie,0.45
+96,061813414000,przeworski,698.0,2022,1814,powiat,18,podkarpackie,0.52
+354,061813506000,kolbuszowski,773.0,2022,1806,powiat,18,podkarpackie,0.75
+355,061813510000,łańcucki,452.0,2022,1810,powiat,18,podkarpackie,1.28
+356,061813515000,ropczycko-sędziszowski,548.0,2022,1815,powiat,18,podkarpackie,2.15
+97,061813516000,rzeszowski,1145.0,2022,1816,powiat,18,podkarpackie,3.27
+357,061813519000,strzyżowski,503.0,2022,1819,powiat,18,podkarpackie,0.5
+185,071427062000,Płock,88.0,2022,1462,miasto na prawach powiatu,14,mazowieckie,81.55
+119,071427103000,garwoliński,1285.0,2022,1403,powiat,14,mazowieckie,0.66
+181,061813563000,Rzeszów,129.0,2022,1863,miasto na prawach powiatu,18,podkarpackie,132.7
+98,061813603000,dębicki,777.0,2022,1803,powiat,18,podkarpackie,4.16
+122,071427164000,Siedlce,32.0,2022,1464,miasto na prawach powiatu,14,mazowieckie,143.75
+358,061813611000,mielecki,881.0,2022,1811,powiat,18,podkarpackie,8.57
+99,061813612000,niżański,786.0,2022,1812,powiat,18,podkarpackie,10.88
+100,061813618000,stalowowolski,832.0,2022,1818,powiat,18,podkarpackie,13.14
+359,061813620000,tarnobrzeski,521.0,2022,1820,powiat,18,podkarpackie,1.8
+361,062013909000,sejneński,855.0,2022,2009,powiat,20,podlaskie,2.07
+102,062013912000,suwalski,1307.0,2022,2012,powiat,20,podlaskie,2.49
+363,071412865000,Warszawa,517.0,2022,1465,"miasto stołeczne, na prawach powiatu",14,mazowieckie,142.23
+364,071412908000,legionowski,391.0,2022,1408,powiat,14,mazowieckie,24.98
+103,071412912000,miński,1164.0,2022,1412,powiat,14,mazowieckie,3.7
+365,071412917000,otwocki,616.0,2022,1417,powiat,14,mazowieckie,12.52
+104,071412934000,wołomiński,954.0,2022,1434,powiat,14,mazowieckie,13.54
+366,071413005000,grodziski,367.0,2022,1405,powiat,14,mazowieckie,13.38
+367,071413014000,nowodworski,695.0,2022,1414,powiat,14,mazowieckie,12.74
+368,071413018000,piaseczyński,621.0,2022,1418,powiat,14,mazowieckie,13.62
+369,071413021000,pruszkowski,246.0,2022,1421,powiat,14,mazowieckie,60.68
+105,071413032000,warszawski zachodni,534.0,2022,1432,powiat,14,mazowieckie,16.94
+106,071422502000,ciechanowski,1060.0,2022,1402,powiat,14,mazowieckie,6.31
+107,071422513000,mławski,1182.0,2022,1413,powiat,14,mazowieckie,2.32
+108,071422520000,płoński,1380.0,2022,1420,powiat,14,mazowieckie,2.41
+370,071422524000,pułtuski,827.0,2022,1424,powiat,14,mazowieckie,1.74
+371,071422701000,białobrzeski,639.0,2022,1401,powiat,14,mazowieckie,1.75
+373,071422709000,lipski,740.0,2022,1409,powiat,14,mazowieckie,0.39
+115,071422723000,przysuski,801.0,2022,1423,powiat,14,mazowieckie,0.61
+116,071422725000,radomski,1530.0,2022,1425,powiat,14,mazowieckie,3.03
+374,071422730000,szydłowiecki,452.0,2022,1430,powiat,14,mazowieckie,3.41
+375,071422736000,zwoleński,573.0,2022,1436,powiat,14,mazowieckie,0.72
+376,071427027000,sierpecki,852.0,2022,1427,powiat,14,mazowieckie,0.94
+377,071427110000,łosicki,772.0,2022,1410,powiat,14,mazowieckie,0.65
+120,071427129000,sokołowski,1131.0,2022,1429,powiat,14,mazowieckie,4.74
+121,071427133000,węgrowski,1220.0,2022,1433,powiat,14,mazowieckie,2.28
+379,071427328000,sochaczewski,735.0,2022,1428,powiat,14,mazowieckie,5.36
+380,071427338000,żyrardowski,532.0,2022,1438,powiat,14,mazowieckie,8.94
